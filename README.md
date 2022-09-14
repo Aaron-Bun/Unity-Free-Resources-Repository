@@ -1,0 +1,2 @@
+# Unity-Free-Resources-Repository
+Unity Free Resources Repository是一款仿UnityPackageManager开发的基于私人服务器的资源库,内置上千款资源供学习
